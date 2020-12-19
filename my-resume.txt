@@ -1,2 +1,3 @@
                                        Name: Ishita Singh
                                        Currenty I am a student of HBTU
+                                        Tech Stack: NodeJs, VSCode
